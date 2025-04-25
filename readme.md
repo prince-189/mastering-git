@@ -1,3 +1,2 @@
 ## hello git
-## i can;t understand a thing
-## so what to do
+## git push -u checkout new-branch //this to connect local (new branch) to remote 
